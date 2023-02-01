@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+header{
+   height: 100px;
+   background-color: aqua;
+   position: sticky;
+   top: 0;
+   box-shadow: 1px 1px 10px gray;
+}
+
+footer{
+    height: 300px;
+    background-color: bisque;
+    box-shadow: 1px 1px 10px gray;
+}
+
+aside{
+    width: 30%;
+    height: 400px;
+    background-color: coral;
+    display: inline-block;
+    margin-right: 40px;
+    box-shadow: 1px 1px 10px gray;
+}
+section{
+    width: 60%;
+    height: 400px;
+    background-color: chocolate;
+    display: inline-block;
+    box-shadow: 1px 1px 10px gray;
+}
+
+main{
+    padding: 20px 60px;
+}
